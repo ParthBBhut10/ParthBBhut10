@@ -1,4 +1,4 @@
-### Hola , I'm Parth Bhut 👋
+### Hola , I'm Parth Bhut   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
@@ -13,4 +13,4 @@
 - ⚡ Fun fact: Just Noob trying not to Suck.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ParthBBhut10>&theme=<THEME_NAME>" />
+
