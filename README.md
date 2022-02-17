@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on C++ ,  Python
 - 🤔 I’m looking for help with  AWS, GeeksforGeeks, Google
 - 💬 Ask me about Anything
-- 📫 How to reach me: [@ParthBBhut2(https://twitter.com/parthbbhut2)]
+- 📫 How to reach me: [@ParthBBhut2](https://twitter.com/parthbbhut2)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
 -->
