@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C++ , Python 
 - 👯 I’m looking to collaborate on C++ ,  Python
 - 🤔 I’m looking for help with  AWS, GeeksforGeeks, Google
-- 💬 Ask me about Anything
+- 💬 Ask me about C++ & Python I will try to help
 - 📫 How to reach me: [@ParthBBhut2](https://twitter.com/parthbbhut2)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just Noob trying not to Suck.
