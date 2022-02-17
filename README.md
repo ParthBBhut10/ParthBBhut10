@@ -1,7 +1,7 @@
 ### Hola , I'm Parth Bhut 👋
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on My Skills & Self-Development  
 - 🌱 I’m currently learning C++ , Python 
