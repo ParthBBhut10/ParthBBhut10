@@ -12,3 +12,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just Noob trying not to Suck.
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ParthBBhut10>&theme=<THEME_NAME>" />
