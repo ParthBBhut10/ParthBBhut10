@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: [@ParthBBhut2](https://twitter.com/parthbbhut2)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lazy Lad
--->
+- ⚡ Fun fact: Just Noob trying not to Suck.
+
