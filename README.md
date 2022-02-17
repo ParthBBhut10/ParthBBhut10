@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with  AWS, GeeksforGeeks, Google
 - 💬 Ask me about Anything
 - 📫 How to reach me: [@ParthBBhut2](https://twitter.com/parthbbhut2)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Lazy Lad
 -->
