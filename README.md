@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on C++ ,  Python
 - 🤔 I’m looking for help with  AWS, GeeksforGeeks, Google
 - 💬 Ask me about C++ & Python I will try to help
-- 📫 How to reach me: [@ParthBBhut2](https://twitter.com/parthbbhut2)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just Noob trying not to Suck.
 
@@ -28,6 +27,19 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br><br>
+### How to reach me:
+<div align="center">
+
+<a  href="https://www.youtube.com/c/NarutoBTC69" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/parth-b-bhut/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/parthbbhut2" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:parthbhut1622@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.facebook.com/parth.bhut.7503/" target="_blank">
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
+<a href="https://discord.com/invite/GQCt2S8rtd"><img  alt="Discord" src="https://img.shields.io/badge/discord%20-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.instagram.com/parthhh.69/"><img  alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
+
+</div>
 
 
 
