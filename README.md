@@ -39,12 +39,14 @@
 <a href="https://discord.com/invite/GQCt2S8rtd"><img  alt="Discord" src="https://img.shields.io/badge/discord%20-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.instagram.com/parthhh.69/"><img  alt="Instagram" src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white" />
 
-</div>
+
 
 
 
 ![ParthBBhut10](https://github-readme-stats.vercel.app/api?username=ParthBBHut10&theme=blue-green&show_icons=true)<br><br>
 [![Parth top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthBBhut10&theme=blue-green)](https://github.com/ParthBBhut10/github-readme-stats)
+  
+  </div>
 
 
 
