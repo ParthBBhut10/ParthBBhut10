@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with  AWS, GeeksforGeeks, Google
 - 💬 Ask me about C++ & Python I will try to help
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Just Noob trying not to Suck.
+- ⚡ Fun fact: Just Noob trying not to s*ck.
 
 
 
